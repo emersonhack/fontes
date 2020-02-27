@@ -1,8 +1,8 @@
 @font-face {
-font-family: 'Flexo Heavy';
+font-family: './Flexo Heavys';
 font-style: normal;
 font-weight: normal;
-src: local('Flexo Heavy'), url('Flexo-Heavy_0.otf') format('opentype');
+src: local('Flexo Heavys'), url('./Flexo-Heavy_0.otf') format('opentype');
 }
 
 @font-face {
