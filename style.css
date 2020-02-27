@@ -1,15 +1,15 @@
 @font-face {
-font-family: 'Flexo Heavys';
+font-family: 'Flexo Heavy';
 font-style: normal;
 font-weight: normal;
-src: local('Flexo Heavys'), url('./Flexo-Heavy_0.otf') format('opentype');
+src: local('Flexo Heavy'), url('./Flexo-Heavy_0.otf') format('opentype');
 }
 
 @font-face {
-font-family: 'Flexo Black';
+font-family: 'Flexo Blacks';
 font-style: normal;
 font-weight: normal;
-src: local('Flexo Black'), url('Flexo-Black_0.otf') format('opentype');
+src: local('Flexo Blacks'), url('Flexo-Black_0.otf') format('opentype');
 }
 
 @font-face {
