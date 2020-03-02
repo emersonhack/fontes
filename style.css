@@ -1,9 +1,64 @@
+/* Inicio das fontes de teste*/
+
 @font-face {
-font-family: 'Flexo Heavy';
-font-style: normal;
-font-weight: normal;
-src: local('Flexo Heavy'), url('Flexo-Heavy_0.otf') format('opentype');
+font-family: 'Flexo';
+font-style: bold;
+font-weight: 800;
+src: local('Flexo'), url('Flexo-Black_0.otf') format('opentype');
 }
+
+@font-face {
+font-family: 'Flexo';
+font-style: bold;
+font-weight: 700;
+src: local('Flexo'), url('Flexo-Heavy_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: bold;
+font-weight: 600;
+src: local('Flexo'), url('Flexo-Bold_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 500;
+src: local('Flexo'), url('Flexo-Demi_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 400;
+src: local('Flexo'), url('Flexo-Medium_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 300;
+src: local('Flexo'), url('Flexo-Regular_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 200;
+src: local('Flexo Light'), url('Flexo-Light_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 100;
+src: local('Flexo Thin'), url('Flexo-Thin_0.otf') format('opentype');
+}
+
+/* Inicio das fontes já testadas*/
+
+/*FLEXO*/
 
 @font-face {
 font-family: 'Flexo Black';
@@ -13,10 +68,17 @@ src: local('Flexo Black'), url('Flexo-Black_0.otf') format('opentype');
 }
 
 @font-face {
-font-family: 'Flexo Medium';
+font-family: 'Flexo Heavy';
 font-style: normal;
 font-weight: normal;
-src: local('Flexo Medium'), url('Flexo-Medium_0.otf') format('opentype');
+src: local('Flexo Heavy'), url('Flexo-Heavy_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Bold'), url('Flexo-Bold_0.otf') format('opentype');
 }
 
 @font-face {
@@ -24,6 +86,13 @@ font-family: 'Flexo Demi';
 font-style: normal;
 font-weight: normal;
 src: local('Flexo Demi'), url('Flexo-Demi_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Medium';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Medium'), url('Flexo-Medium_0.otf') format('opentype');
 }
 
 @font-face {
@@ -46,6 +115,8 @@ font-style: normal;
 font-weight: normal;
 src: local('Flexo Thin'), url('Flexo-Thin_0.otf') format('opentype');
 }
+
+/*BEBAS NEUE*/
 
 @font-face {
 font-family: 'Bebas Neue Regular';
