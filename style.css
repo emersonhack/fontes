@@ -1,5 +1,7 @@
 /* Inicio das fontes de teste*/
 
+/*FLEXO*/
+
 @font-face {
 font-family: 'Flexo';
 font-style: bold;
@@ -54,6 +56,43 @@ font-family: 'Flexo';
 font-style: normal;
 font-weight: 100;
 src: local('Flexo Thin'), url('Flexo-Thin_0.otf') format('opentype');
+}
+
+/*BEBAS NEUE*/
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: thin;
+font-weight: 100;
+src: local('Bebas Neue Thin'), url('BebasNeue Thin.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 200;
+src: local('Bebas Neue Light'), url('BebasNeue Light.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Regular'), url('BebasNeue.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 500;
+src: local('Bebas Neue Book'), url('BebasNeue Book.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: bold;
+font-weight: 600;
+src: local('Bebas Neue Bold'), url('BebasNeue Bold.woff') format('woff');
 }
 
 /* Inicio das fontes já testadas*/
