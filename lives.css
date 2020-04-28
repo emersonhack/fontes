@@ -1,0 +1,218 @@
+/* INICIO CONFIG */
+
+.b3{background-image: linear-gradient(180deg,#f58634,#ee7b26);}
+.text-right{text-align: center;}
+.heading{font-size:25px;font-weight:600;}
+.submit-button {background-color: #171821;}
+.div-block{display: none;}
+.section-2{margin-bottom: 50px;margin:-380px 0;}
+.section-3{display: none;}
+.b3{background-image:#000;
+
+/* FIM CONFIG */
+
+/* Inicio das fontes de teste*/
+
+/*FLEXO*/
+
+@font-face {
+font-family: 'Flexo';
+font-style: bold;
+font-weight: 800;
+src: local('Flexo'), url('Flexo-Black_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: bold;
+font-weight: 700;
+src: local('Flexo'), url('Flexo-Heavy_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: bold;
+font-weight: 600;
+src: local('Flexo'), url('Flexo-Bold_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 500;
+src: local('Flexo'), url('Flexo-Demi_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 400;
+src: local('Flexo'), url('Flexo-Medium_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 300;
+src: local('Flexo'), url('Flexo-Regular_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 200;
+src: local('Flexo Light'), url('Flexo-Light_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo';
+font-style: normal;
+font-weight: 100;
+src: local('Flexo Thin'), url('Flexo-Thin_0.otf') format('opentype');
+}
+
+/*BEBAS NEUE*/
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: thin;
+font-weight: 100;
+src: local('Bebas Neue Thin'), url('BebasNeue Thin.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 200;
+src: local('Bebas Neue Light'), url('BebasNeue Light.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Regular'), url('BebasNeue.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: 500;
+src: local('Bebas Neue Book'), url('BebasNeue Book.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Bebas Neue';
+font-style: bold;
+font-weight: 600;
+src: local('Bebas Neue Bold'), url('BebasNeue Bold.woff') format('woff');
+}
+
+/* Inicio das fontes já testadas*/
+
+/*FLEXO*/
+
+@font-face {
+font-family: 'Flexo Black';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Black'), url('Flexo-Black_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Heavy';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Heavy'), url('Flexo-Heavy_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Bold'), url('Flexo-Bold_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Demi';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Demi'), url('Flexo-Demi_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Medium';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Medium'), url('Flexo-Medium_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Regular'), url('Flexo-Regular_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Light';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Light'), url('Flexo-Light_0.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Flexo Thin';
+font-style: normal;
+font-weight: normal;
+src: local('Flexo Thin'), url('Flexo-Thin_0.otf') format('opentype');
+}
+
+/*BEBAS NEUE*/
+
+@font-face {
+font-family: 'Bebas Neue Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Regular'), url('BebasNeue Regular.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Bebas Neue Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Regular'), url('BebasNeue.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Bebas Neue Book';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Book'), url('BebasNeue Book.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Bebas Neue Thin';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Thin'), url('BebasNeue Thin.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Bebas Neue Light';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Light'), url('BebasNeue Light.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Bebas Neue Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Bebas Neue Bold'), url('BebasNeue Bold.woff') format('woff');
+}
