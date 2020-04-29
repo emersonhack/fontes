@@ -47,8 +47,14 @@
 }
 
 .submit-button {
-    background-color: #171821;
+    background-color: #ef7d28;
     font-family: 'Flexo Medium';
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+.submit-button:hover {
+    background-color: #353535;
 }
 
 .div-block {
