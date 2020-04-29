@@ -11,8 +11,8 @@
     font-family: 'Flexo Medium';
 }
 
-.cont_modal {
-    content: ' e digite o e-mail abaixo para acessar a live:';   
+.cont_modal::after {
+  content: attr(data-done) "  e digite o e-mail abaixo para acessar a live:";
 }
 
 .live {
