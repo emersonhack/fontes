@@ -12,7 +12,7 @@
 }
 
 .cont_modal::after {
-    content: attr(data-done) "  e digite o e-mail abaixo para acessar a live:";
+    content: attr(data-done) "e digite o e-mail abaixo para acessar a live:";
     font-family: 'Flexo Medium';
 }
 
