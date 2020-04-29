@@ -67,6 +67,8 @@
 .text-block-2.bold-cadastre-se {
     font-size: 12px;
     font-family: 'Flexo medium';
+    padding-top: 10px;
+    margin-bottom: -20px;
 }
 
 .bold-text {
