@@ -64,6 +64,16 @@
     display: none;
 }
 
+.text-block-2.bold-cadastre-se {
+    font-size: 12px;
+    font-family: 'Flexo medium';
+}
+
+.bold-text {
+    font-weight: 800;
+    font-family: 'Flexo medium';
+}
+
 /* FIM CONFIG */
 
 /* Inicio das fontes de teste*/
