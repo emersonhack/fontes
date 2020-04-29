@@ -82,6 +82,11 @@
     font-family: 'Flexo medium';
 }
 
+.div-block-2 {
+    background-image: -webkit-linear-gradient(180deg,#ef7d28,#f58533);
+    background-image: linear-gradient(180deg,#ef7d28,#f58533);
+}
+
 /* FIM CONFIG */
 
 /* Inicio das fontes de teste*/
