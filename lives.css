@@ -12,7 +12,7 @@
 }
 .paragraph, strong {
     font-family: 'Flexo Medium';
-    margin-left: 0px;
+    font-size: 18px;
 }
     
 .cont_modal::after {
