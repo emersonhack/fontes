@@ -87,6 +87,10 @@
     background-image: linear-gradient(180deg,#ef7d28,#f58533);
 }
 
+.modal.in .modal-dialog {
+    margin-top: 13%;
+}
+
 /* FIM CONFIG */
 
 /* Inicio das fontes de teste*/
