@@ -10,7 +10,7 @@
     margin-bottom: 25px;
     font-family: 'Flexo Medium';
 }
-.paragraph strong {
+.paragraph, strong {
     font-family: 'Flexo Medium';
 }
     
