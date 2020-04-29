@@ -16,6 +16,10 @@
     font-family: 'Flexo Medium';
 }
 
+.w-container {
+    max-width: 800px;
+}
+
 .live {
     font-family: 'Flexo Medium';
 }
