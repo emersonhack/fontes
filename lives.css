@@ -11,6 +11,10 @@
     font-family: 'Flexo Medium';
 }
 
+.cont_modal {
+    content: ' e digite o e-mail abaixo para acessar a live:';   
+}
+
 .live {
     font-family: 'Flexo Medium';
 }
