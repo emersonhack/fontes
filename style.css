@@ -203,3 +203,17 @@ font-style: normal;
 font-weight: normal;
 src: local('Bebas Neue Bold'), url('BebasNeue Bold.woff') format('woff');
 }
+
+@font-face {
+font-family: 'Glacial Indiference Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Glacial Indiference Bold'), url('GlacialIndifference-Bold.otf') format('otf');
+}
+
+@font-face {
+font-family: 'Glacial Indiference Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Glacial Indiference Regular'), url('GlacialIndifference-Regular.otf') format('otf');
+}
