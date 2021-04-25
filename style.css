@@ -217,3 +217,24 @@ font-style: normal;
 font-weight: normal;
 src: local('Glacial Indifference Regular'), url('GlacialIndifference-Regular.otf') format('opentype');
 }
+
+@font-face {
+font-family: 'Myriad Pro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold'), url('MYRIADPRO-BOLD.OTF') format('opentype');
+}
+
+@font-face {
+font-family: 'Myriad Pro Bold Light';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold Light'), url('MYRIADPRO-LIGHT.otf') format('opentype');
+}
+
+@font-face {
+font-family: 'Myriad Pro Bold Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold Regular'), url('MYRIADPRO-REGULAR.OTF') format('opentype');
+}
