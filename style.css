@@ -226,15 +226,15 @@ src: local('Myriad Pro Bold'), url('MYRIADPRO-BOLD.OTF') format('opentype');
 }
 
 @font-face {
-font-family: 'Myriad Pro Bold Light';
+font-family: 'Myriad Pro Light';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Pro Bold Light'), url('MYRIADPRO-LIGHT.otf') format('opentype');
+src: local('Myriad Pro Light'), url('MYRIADPRO-LIGHT.otf') format('opentype');
 }
 
 @font-face {
-font-family: 'Myriad Pro Bold Regular';
+font-family: 'Myriad Pro Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Pro Bold Regular'), url('MYRIADPRO-REGULAR.OTF') format('opentype');
+src: local('Myriad Pro Regular'), url('MYRIADPRO-REGULAR.OTF') format('opentype');
 }
