@@ -205,17 +205,17 @@ src: local('Bebas Neue Bold'), url('BebasNeue Bold.woff') format('woff');
 }
 
 @font-face {
-font-family: 'Glacial Indifference Bold';
+font-family: 'Glacial Indifference';
 font-style: normal;
-font-weight: normal;
-src: local('Glacial Indifference Bold'), url('GlacialIndifference-Bold.otf') format('opentype');
+font-weight: bold;
+src: local('Glacial Indifference'), url('GlacialIndifference-Bold.otf') format('opentype');
 }
 
 @font-face {
-font-family: 'Glacial Indifference Regular';
+font-family: 'Glacial Indifference';
 font-style: normal;
 font-weight: normal;
-src: local('Glacial Indifference Regular'), url('GlacialIndifference-Regular.otf') format('opentype');
+src: local('Glacial Indifference'), url('GlacialIndifference-Regular.otf') format('opentype');
 }
 
 @font-face {
